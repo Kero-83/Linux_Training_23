@@ -1,0 +1,11 @@
+Commands Used:
+		mkdir
+		cd
+		touch
+		ls
+		nano
+		cat
+		echo
+		cp
+		mv
+		rm
