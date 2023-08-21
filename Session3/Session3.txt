@@ -1,0 +1,19 @@
+Commands Used:
+	sudo
+	useradd
+	groupadd
+	groups
+	exit
+	touch
+	chmod
+	ls
+	chown
+	chgrp
+	sleep 1000
+	vim
+	ps
+	jobs
+	kill
+	killall
+	sudo apt install
+	sudo apt remove
