@@ -1,0 +1,11 @@
+Steps:
+	1- I move the Task-2.zip to my git repo then I git pull
+	2- unzipping it
+	3- unarchiving .level-1
+	4- rename level-2 -> level-2.gz then unarchiving
+	5- find level 3 and its type
+	6- bunzip2 it 
+	7- find type of level-3.out
+	8- unarchiving
+	9- find inoded file to know the size
+	10- Finishing Task :)
